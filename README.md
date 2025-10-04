@@ -1,1 +1,2 @@
-# eternally-regressing-knight
+# Eternally Regressing Knight
+Rêvant de devenir chevalier, Enclide, s'acharne pendant des années et devient chef d'escouade. Cependant, il est loin d'atteindre son but par son manque de talent. Un jour, il rencontre un adversaire particulier qui le tue "sans effort". Or, au lieu de mourir, Enclide répète le même jour. Ce jour sans fin, qui aurait dû être le début d'un enfer, devient une opportunité toute particulière pour lui afin de devenir un vrai chevalier talentueux. Arrivera-t-il à atteindre "l'avenir" ?
